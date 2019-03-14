@@ -1,6 +1,7 @@
-var accessid = 'LTAIxKZFw0nQWQQf';
-var accesskey = 'JTwlPRxFwZuWZpFyijyGoXRcBr1vlo';
-var host = 'http://wxggt.oss-cn-beijing.aliyuncs.com';
+/*这里填写oss服务器的相关信息*/
+var accessid = '';
+var accesskey = '';
+var host = '';
 
 g_dirname = ''
 g_object_name = ''
